@@ -1,1 +1,1 @@
-FROM gcr.io/kuar-demo/kuard-amd64:2
+FROM fluent/fluentd:v0.14.10
